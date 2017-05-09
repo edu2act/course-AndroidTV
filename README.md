@@ -11,5 +11,5 @@
 
 | 章节 | 简介 | 资料 |
 |-----|-----|-----|
-|01 AndroidTV概述|AndroidTV简介、AndroidTV项目配置、模拟器创建、第一个AndroidTV项目|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides]("/PPT/1 Google Widget框架Ch01_AR简介/01 AndroidTV概述.pptx")|
+|01 AndroidTV概述|AndroidTV简介、AndroidTV项目配置、模拟器创建、第一个AndroidTV项目|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/"1 Google Widget框架Ch01_AR简介"/"01 AndroidTV概述.pptx")|
 
