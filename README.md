@@ -30,3 +30,6 @@
 |02_4 专用控件 - TvTabHost和TvImageView|TvTabHost、TVImageView|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/2%20RecoTvFrame框架/02_4%20专用控件%20-%20TvTabHost和TvImageView.pptx)|
 |03 数据库操作|重要的类及方法、ORM模型|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/2%20RecoTvFrame框架/03%20数据库操作.pptx)|
 |04 网络操作|重要的类及方法|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/2%20RecoTvFrame框架/04%20网络操作.pptx)|
+
+
+>						资料整理及提交 李玮玮
