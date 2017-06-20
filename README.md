@@ -16,6 +16,12 @@
 |03 创建TV布局|构建TV布局、构建TV导航、电视推荐UI设计原则|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/1%20Google%20Widget框架/03%20创建TV布局.pptx)|
 |04 多媒体|资源目录浏览器、卡片视图、详细信息视图、播放卡片、引导界面、后台播放|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/1%20Google%20Widget框架/04%20多媒体.pptx)|
 |05 MVP模式介绍|MVP概述、MVP在Android中的应用、MVP的实现示例、leanback.widget汇总|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/1%20Google%20Widget框架/05%20MVP模式介绍.pptx)|
+
+
+### RecoTvFrame框架
+
+| 章节 | 简介 | 资料 |
+|-----|-----|-----|
 |01 RecoTvFrame框架概述|TVFrame简介、TVFrame导入、屏幕适配及相关术语|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/2%20RecoTvFrame框架/01%20RecoTvFrame框架概述.pptx)|
 |02 专用控件|专用控件介绍、TvTabHost、TVListView|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/2%20RecoTvFrame框架/02%20专用控件.pptx)|
 |02_1 专用控件 - TvRelativeLayoutAsGroup|专用控件介绍、TvRelativeLayoutAsGroup|[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](/PPT/2%20RecoTvFrame框架/02_1%20专用控件%20-%20TvRelativeLayoutAsGroup.pptx)|
