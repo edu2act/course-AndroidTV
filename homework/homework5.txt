@@ -1,0 +1,3 @@
+1. 请写出自定义AbstractDetailsDescriptionPresenter类的示例代码（实现onBindDescription抽象方法）
+
+2. 请写出给详细信息视图页面添加action按钮的示例代码
